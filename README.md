@@ -12,6 +12,7 @@
 
 <a href="https://www.mbusa.com/en/amg?sd_campaign_type=Search&sd_digadprov=Resolution&sd_campaign=Brand%7CCorp%7CMB_Classes%7CGeneral%7CExact&sd_channel=GOOGLE&sd_adid=AMG+General&sd_digadkeyword=mercedes+amg&gclid=Cj0KCQjw7MGJBhD-ARIsAMZ0ees0wT17_D4Ap5o4c5N5iRq8Dd70Wgg5OFA34WbXCUBK-uCQvUHdKskaAjQREALw_wcB&gclsrc=aw.ds">3. Mercedes AMG</a>
 
+
 <br/>
 <br/>
 
@@ -19,7 +20,7 @@
 <h2> Details </h2>
 
 <h3> Porsche 911 </h3>
-<img src="WP0AC2A94FS184084_6ca5f930864a098c.jpeg" alt="porshe">
+<img src="WP0AC2A94FS184084_6ca5f930864a098c.jpeg" alt="porshe" width=700" height="370" > 
 <p>- Price: 25k </p>
 <p>- Mileage: 10,000 </p>
 <p>- Year: 2020 </P>
