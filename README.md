@@ -3,7 +3,7 @@
 
 <br/>
 
-<h3>- Quick Overviews </h3>
+<h2>Quick Overviews </h2>
 
 <a href="https://www.porsche.com/international/models/911/911-models/carrera-4/">1. Porshce 911</a>
 
@@ -19,6 +19,7 @@
 <h2> Details </h2>
 
 <h3> Porsche 911 </h3>
-<p> Price: 25k </p>
 
-
+<p>- Price: 25k </p>
+<p>- Mileage: 10,000 </p>
+<p>- Year: 2020 </P>
