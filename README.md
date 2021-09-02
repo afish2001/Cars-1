@@ -1,3 +1,4 @@
+<html>
 <h1> Upcoming Cars for reps </h1>
 <p> Here are coming cars for reps </p>
 
@@ -20,7 +21,21 @@
 <h2> Details </h2>
 
 <h3> Porsche 911 </h3>
-<img src="WP0AC2A94FS184084_6ca5f930864a098c.jpeg" alt="porshe" width=700" height="370" > 
+<img src="WP0AC2A94FS184084_6ca5f930864a098c.jpeg" alt="porshe" width=700" height="380" > 
 <p>- Price: 25k </p>
 <p>- Mileage: 10,000 </p>
 <p>- Year: 2020 </P>
+                             
+ 
+<br/><br/>                                                                                       
+                                                                                       
+<h3> Mercedes AMG RS </h3>
+<img src="mercedes-amg-gt-73-four-door-spy-photos.jpeg" alt="benz" width=700" height="380" > 
+<p>- Price: 35k </p>
+<p>- Mileage: 12,000 </p>
+<p>- Year: 2019 </P>
+                                                                                                                
+                                                                                       
+                                                                                       
+                                                                                       
+</html>
