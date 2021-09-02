@@ -1,4 +1,3 @@
-<html>
 <h1> Upcoming Cars for reps </h1>
 <p> Here are coming cars for reps </p>
 
@@ -13,7 +12,6 @@
 
 <a href="https://www.mbusa.com/en/amg?sd_campaign_type=Search&sd_digadprov=Resolution&sd_campaign=Brand%7CCorp%7CMB_Classes%7CGeneral%7CExact&sd_channel=GOOGLE&sd_adid=AMG+General&sd_digadkeyword=mercedes+amg&gclid=Cj0KCQjw7MGJBhD-ARIsAMZ0ees0wT17_D4Ap5o4c5N5iRq8Dd70Wgg5OFA34WbXCUBK-uCQvUHdKskaAjQREALw_wcB&gclsrc=aw.ds">3. Mercedes AMG</a>
 
-
 <br/>
 <br/>
 
@@ -21,21 +19,50 @@
 <h2> Details </h2>
 
 <h3> Porsche 911 </h3>
-<img src="WP0AC2A94FS184084_6ca5f930864a098c.jpeg" alt="porshe" width=700" height="380" > 
+
 <p>- Price: 25k </p>
 <p>- Mileage: 10,000 </p>
 <p>- Year: 2020 </P>
-                             
- 
-<br/><br/>                                                                                       
-                                                                                       
-<h3> Mercedes AMG RS </h3>
-<img src="mercedes-amg-gt-73-four-door-spy-photos.jpeg" alt="benz" width=700" height="380" > 
-<p>- Price: 35k </p>
-<p>- Mileage: 12,000 </p>
-<p>- Year: 2019 </P>
-                                                                                                                
-                                                                                       
-                                                                                       
-                                                                                       
-</html>
+
+Ford F-350
+
+Price: 30k
+Mileage: 225k
+Year 2011
+
+Toyota Supra 
+
+Price: 8k 
+Mileage: 168K
+Year: 1980
+
+Chevy Silverado 
+
+Price: 10k
+Mileage: 243k
+Year: 2005
+
+Nisaan Altima
+
+Price: 7k 
+Mileage: 125k
+Year: 2015
+
+Nissan 350z
+
+Price: 5k
+milage: 186k
+Year: 2008
+
+Dodge Challenger
+
+Price: 11k
+Mileage: 194k
+Year: 2011
+
+mitsubishi miata
+
+Price: 6k
+Milesage: 180k
+Year: 1994
+
