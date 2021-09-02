@@ -19,7 +19,7 @@
 <h2> Details </h2>
 
 <h3> Porsche 911 </h3>
-![image](https://user-images.githubusercontent.com/89995923/131891484-8cee4eef-ddac-4e95-96d9-eed83b33822b.png)
+<img src="img_chania.jpg" alt="Flowers in Chania">
 <p>- Price: 25k </p>
 <p>- Mileage: 10,000 </p>
 <p>- Year: 2020 </P>
