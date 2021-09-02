@@ -19,7 +19,19 @@
 <h2> Details </h2>
 
 <h3> Porsche 911 </h3>
-![image](https://user-images.githubusercontent.com/89995923/131891484-8cee4eef-ddac-4e95-96d9-eed83b33822b.png)
+
 <p>- Price: 25k </p>
 <p>- Mileage: 10,000 </p>
 <p>- Year: 2020 </P>
+
+Ford F-350
+
+Price: 30k
+Mileage: 225k
+Year 2011
+
+Toyota Supra 
+
+Price: 8k 
+Mileage: 168K
+Year: 1980
